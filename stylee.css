@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  height: 100vh;
+  background-color: lightblue;
+}
+.ccgt {
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+}
+
+body .ccgt-pic {
+  margin-left: 1050px;
+  width: 400px;
+  height: auto;
+}
+.sell-price {
+  display: flex;
+  margin-top: 40px;
+  justify-content: space-between;
+  font-size: large;
+  color: rgb(121, 57, 223);
+}
+
+.ccgt-back {
+  margin-left: 50px;
+  display: flex;
+  height: auto;
+  width: 400px;
+}
+
+.engine {
+  color: red;
+}
+.goback {
+  margin-top: 10px;
+}
